@@ -5,15 +5,15 @@ It includes SQL scripts for creating tables, inserting data, running queries, an
 
 
 ## 📂 Structure
-- `sql/create_tables.sql` → Database schema (tables, constraints, indexes).  
-- `sql/exercitii.sql` → SQL exercises: insert, update, delete, select, joins, views, sequences.  
+- `sql/create-tables.sql` → Database schema (tables, constraints, indexes).  
+- `sql/exercises.sql` → SQL exercises: insert, update, delete, select, joins, views, sequences.  
 - `docs/proiect_baze_date.docx` → Original project documentation (Romanian).
 
 
 ## 🚀 How to Run
 1. Open your SQL environment (Oracle, PostgreSQL, MySQL – adapt syntax where needed).
-2. Run `create_tables.sql` to set up the schema.
-3. Run `exercitii.sql` step by step to test queries.
+2. Run `create-tables.sql` to set up the schema.
+3. Run `exercises.sql` step by step to test queries.
 
 
 ## 🛠️ Topics Covered
